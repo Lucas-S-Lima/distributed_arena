@@ -10,6 +10,16 @@ O objetivo deste projeto é permitir partidas de jogo da velha multiplayer entre
 
 ---
 
+## 👥 Integrantes
+
+- Bruno Vinicius Carvalho de Alencar 
+- Felipe de Arena Abreu Ramos Figueiredo 
+- João Victor Mesquita de Moraes Toledo 
+- Lucas da Silva Lima 
+- Rafael de Araujo Moreira
+
+---
+
 ## 🚀 Tecnologias
 
 - **Python** (Django)
